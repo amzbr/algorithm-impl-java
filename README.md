@@ -1,2 +1,2 @@
-# leetcode-impl-java 
-Java实现leetcode的算法
+# algorithm-impl-java
+算法用Java语言实现
